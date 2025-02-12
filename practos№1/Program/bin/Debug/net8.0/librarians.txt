@@ -1,0 +1,1 @@
+admin|System.Func`2[System.String,System.Boolean]
